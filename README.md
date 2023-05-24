@@ -1,2 +1,2 @@
 # criando_conta_bancaria
-Mostraremos aqui como criar um simples sistema deconta bancária bem intuitvo.
+Mostraremos aqui como criar um simples sistema de conta bancária bem intuitvo.
